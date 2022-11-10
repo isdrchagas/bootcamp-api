@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isado\\OneDrive\\Documents\\projetos backend\\BootcampApplication\\BootcampApplication\\BootcampApplication.csproj": {}
+    "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isado\\OneDrive\\Documents\\projetos backend\\BootcampApplication\\BootcampApplication\\BootcampApplication.csproj": {
+    "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documents\\projetos backend\\BootcampApplication\\BootcampApplication\\BootcampApplication.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
         "projectName": "BootcampApplication",
-        "projectPath": "C:\\Users\\isado\\OneDrive\\Documents\\projetos backend\\BootcampApplication\\BootcampApplication\\BootcampApplication.csproj",
-        "packagesPath": "C:\\Users\\isado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isado\\OneDrive\\Documents\\projetos backend\\BootcampApplication\\BootcampApplication\\obj\\",
+        "projectPath": "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
+        "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\isado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,8 +63,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
