@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "By7a1rLuILiL0CJwKkv81XzD3cuYh9b7v3Qwwaf19PYCJDJTQFi3RaYJzcogTikN4/ewUjHgpU7KHY7rvOSJvA==",
+  "dgSpecHash": "BpQ65IbtP0q4YLJGf9lWpbCdDzDmxPtRkfeBbXdpwELxQ8JDduZwtjws8LVhEoYBjhhiWhMskSU4taguSVtOzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
+  "projectFilePath": "C:\\Users\\rebec\\source\\repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rebec\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
     "C:\\Users\\rebec\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

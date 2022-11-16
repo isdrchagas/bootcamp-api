@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj": {}
+    "C:\\Users\\rebec\\source\\repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj": {
+    "C:\\Users\\rebec\\source\\repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\source\\repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
         "projectName": "BootcampApplication",
-        "projectPath": "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
+        "projectPath": "C:\\Users\\rebec\\source\\repos\\bootcamp-api\\BootcampApplication\\BootcampApplication.csproj",
         "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\Source\\Repos\\bootcamp-api\\BootcampApplication\\obj\\",
+        "outputPath": "C:\\Users\\rebec\\source\\repos\\bootcamp-api\\BootcampApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",

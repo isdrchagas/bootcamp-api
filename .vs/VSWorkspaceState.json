@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BootcampApplication"
   ],
-  "SelectedNode": "\\C:\\Users\\rebec\\Source\\Repos\\bootcamp-api",
+  "SelectedNode": "\\BootcampApplication\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
