@@ -7,6 +7,8 @@ namespace BootcampApplication.model
         public DateTime Initial_date { get; set; }
         public DateTime End_date { get; set; }
         public BootcampStatus Status { get; set; }
+
+        public virtual ICollection<Subscription> Subscription { get; set; }
     }
 
     public enum BootcampStatus

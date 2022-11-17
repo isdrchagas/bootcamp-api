@@ -11,6 +11,8 @@ namespace BootcampApplication.model
         public string Email { get; set; }
         public string Phone { get; set; } 
         public RoleType Role { get; set; }
+
+        public virtual ICollection<Subscription> Subscription { get; set; }
     }
 
     public enum RoleType

@@ -13,7 +13,6 @@ namespace BootcampApplication.model
         public virtual User User { get; set; }
         public string GotToKnowBootcamp { get; set; }
         public string VideoUrl { get; set; }
-
     }
 
     public enum SubscriptionResult
